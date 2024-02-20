@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(215, 240, 247);
+}
+
+hr{
+    border: dotted #1d8888 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 50px auto;
+}
+
+p{
+    text-align: left;
+}
+
+.title1{
+    text-align: center;
+}
+
+.picture{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.block{
+    margin: 10px 250px 10px 250px;
+    text-align: center;
+    border-style: solid;
+}
+
+.detail{
+    text-align: left;
+}
+
+.keywords{
+    font-weight: bolder;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+}
